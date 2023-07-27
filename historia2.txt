@@ -1,0 +1,5 @@
+Este es el 2do archivo biografico
+
+Soy Argentino, estudiante de Platzi
+Nací en LATAM. En Argentina.
+Vivo con mi hermano y mi madre.
