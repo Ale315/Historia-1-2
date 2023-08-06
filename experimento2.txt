@@ -1,3 +1,5 @@
 Aqui estamos, en el experimento nº2.
 
 Empecemos.
+Habia un-avestruz.
+2do commit, el actual.
